@@ -1,2 +1,10 @@
 node_modules/
 package-lock.json
+create_and_push.py
+extract_data.py
+extracted_pptx.txt
+.DS_Store
+Thumbs.db
+*.log
+.vscode/
+.idea/

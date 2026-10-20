@@ -1,5 +1,24 @@
 {
+  "name": "tsmc-2026-q3-report",
+  "version": "1.0.0",
+  "description": "TSMC 2026 Q3 法說會實績與指標達成率互動式網頁與簡報展示專案",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx --yes serve . -l 3000",
+    "dev": "npx --yes serve . -l 3000",
+    "generate-ppt": "node generate_ppt.js"
+  },
   "dependencies": {
     "pptxgenjs": "^4.0.1"
-  }
+  },
+  "keywords": [
+    "tsmc",
+    "2330",
+    "semiconductor",
+    "earnings-report",
+    "dashboard",
+    "chartjs"
+  ],
+  "author": "megkenhuang-ctrl",
+  "license": "MIT"
 }

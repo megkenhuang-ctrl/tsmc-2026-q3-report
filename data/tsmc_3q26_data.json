@@ -1,0 +1,146 @@
+{
+  "company": {
+    "name": "Taiwan Semiconductor Manufacturing Company Limited",
+    "ticker": "2330.TW / NYSE: TSM",
+    "reporting_period": "2026 Q3 (3Q26)",
+    "earnings_call_date": "2026-10-15",
+    "report_published_date": "2026-10-18"
+  },
+  "q3_2026_actuals": {
+    "revenue_usd_billion": 46.72,
+    "revenue_usd_guidance_mid": 45.2,
+    "revenue_usd_guidance_high": 45.8,
+    "revenue_usd_guidance_low": 44.6,
+    "revenue_usd_achievement_mid_pct": 103.36,
+    "revenue_usd_achievement_high_pct": 102.01,
+    "revenue_usd_qoq_pct": 16.2,
+    "revenue_usd_yoy_pct": 41.2,
+
+    "revenue_ntd_billion": 1494.24,
+    "revenue_ntd_guidance_mid": 1446.0,
+    "revenue_ntd_guidance_high": 1465.0,
+    "revenue_ntd_guidance_low": 1427.0,
+    "revenue_ntd_achievement_mid_pct": 103.31,
+    "revenue_ntd_achievement_high_pct": 101.95,
+    "revenue_ntd_qoq_pct": 17.6,
+    "revenue_ntd_yoy_pct": 50.9,
+
+    "gross_margin_pct": 66.4,
+    "gross_margin_guidance_mid_pct": 66.0,
+    "gross_margin_guidance_high_pct": 67.0,
+    "gross_margin_guidance_low_pct": 65.0,
+    "gross_margin_qoq_ppt": -1.3,
+
+    "operating_margin_pct": 58.7,
+    "operating_margin_guidance_mid_pct": 57.0,
+    "operating_margin_guidance_high_pct": 58.0,
+    "operating_margin_guidance_low_pct": 56.0,
+    "operating_margin_qoq_ppt": -1.6,
+
+    "net_income_ntd_billion": 763.06,
+    "eps_ntd": 29.43,
+    "net_income_qoq_pct": 8.0,
+    "cumulative_eps_ntd": 78.76,
+    "cumulative_net_income_ntd_billion": 2042.1,
+    "cumulative_revenue_ntd_billion": 3898.72,
+    "exchange_rate_actual": 31.98,
+    "exchange_rate_guidance": 32.00
+  },
+  "quarterly_progression": [
+    {
+      "quarter": "1Q26",
+      "revenue_usd_billion": 35.90,
+      "revenue_ntd_billion": 1134.10,
+      "gross_margin_pct": 66.2,
+      "operating_margin_pct": 58.1,
+      "net_income_ntd_billion": 572.48,
+      "eps_ntd": 22.08
+    },
+    {
+      "quarter": "2Q26",
+      "revenue_usd_billion": 40.20,
+      "revenue_ntd_billion": 1270.38,
+      "gross_margin_pct": 67.7,
+      "operating_margin_pct": 60.3,
+      "net_income_ntd_billion": 706.56,
+      "eps_ntd": 27.25
+    },
+    {
+      "quarter": "3Q26",
+      "revenue_usd_billion": 46.72,
+      "revenue_ntd_billion": 1494.24,
+      "gross_margin_pct": 66.4,
+      "operating_margin_pct": 58.7,
+      "net_income_ntd_billion": 763.06,
+      "eps_ntd": 29.43
+    },
+    {
+      "quarter": "4Q26 (Guidance Mid)",
+      "revenue_usd_billion": 53.30,
+      "revenue_ntd_billion": 1694.90,
+      "gross_margin_pct": 66.0,
+      "operating_margin_pct": 57.5,
+      "net_income_ntd_billion": null,
+      "eps_ntd": null
+    }
+  ],
+  "technology_node_share": {
+    "1Q26": { "N2": 0, "N3": 25, "N5": 36, "N7": 13, "Others": 26, "Advanced": 74 },
+    "2Q26": { "N2": 3, "N3": 30, "N5": 32, "N7": 11, "Others": 24, "Advanced": 76 },
+    "3Q26": { "N2": 8, "N3": 33, "N5": 28, "N7": 10, "Others": 21, "Advanced": 79 }
+  },
+  "platform_share_3q26": [
+    { "platform": "HPC (高效能運算)", "share_pct": 68, "q1_share_pct": 61, "qoq_growth_pct": 22, "comment": "AI GPU / ASIC 需求爆發，絕對核心引擎" },
+    { "platform": "Smartphone (智慧型手機)", "share_pct": 21, "q1_share_pct": 26, "qoq_growth_pct": 10, "comment": "旗艦新機備貨動能穩健" },
+    { "platform": "Automotive (車用電子)", "share_pct": 4, "q1_share_pct": 4, "qoq_growth_pct": 23, "comment": "ADAS 與自駕晶片需求回溫" },
+    { "platform": "IoT (物聯網)", "share_pct": 4, "q1_share_pct": 6, "qoq_growth_pct": 5, "comment": "邊緣運算裝置溫和復甦" },
+    { "platform": "DCE & Others (消費性電子/其他)", "share_pct": 3, "q1_share_pct": 3, "qoq_growth_pct": -12, "comment": "季節性調節，整體比重極低" }
+  ],
+  "guidance_revisions_2026": [
+    {
+      "time": "2026 年 1 月",
+      "event": "4Q25 法說會 / KGI 報告",
+      "growth_forecast": "接近 30% (~30%)",
+      "growth_pct_numeric": 30,
+      "capex_billion": "520 ~ 560 億美元",
+      "key_takeaway": "AI 需求是真的；長期毛利率目標由 53% 調高至 56% 以上"
+    },
+    {
+      "time": "2026 年 4 月",
+      "event": "1Q26 法說會",
+      "growth_forecast": "首度上修：超過 30% (>30%)",
+      "growth_pct_numeric": 32,
+      "capex_billion": "520 ~ 560 億美元 (偏向高標)",
+      "key_takeaway": "AI 需求依然 Tight (極度吃緊)，全力調配產能"
+    },
+    {
+      "time": "2026 年 7 月",
+      "event": "2Q26 法說會",
+      "growth_forecast": "二度上修：超過 40% (>40%)",
+      "growth_pct_numeric": 40,
+      "capex_billion": "600 ~ 640 億美元",
+      "key_takeaway": "擴大資本支出劇本，CoWoS 與 N2/N3 產能全面擴增"
+    },
+    {
+      "time": "2026 年 10 月",
+      "event": "3Q26 法說會 (最新)",
+      "growth_forecast": "三度上修：約 44% (~44%)",
+      "growth_pct_numeric": 44,
+      "capex_billion": "600 ~ 640 億美元",
+      "key_takeaway": "魏哲家：『AI 需求極度強勁且遠大於供給，台積電獲利能力沒有天花板』"
+    }
+  ],
+  "q4_2026_outlook": {
+    "revenue_usd_range": "523 ~ 543 億美元",
+    "revenue_usd_mid": 533.0,
+    "revenue_usd_qoq_pct": 14.1,
+    "revenue_usd_yoy_pct": 58.0,
+    "revenue_ntd_range": "1.66 兆 ~ 1.73 兆元",
+    "revenue_ntd_mid": 1694.9,
+    "exchange_rate_assumption": 31.8,
+    "gross_margin_range": "65.0% ~ 67.0%",
+    "gross_margin_mid": 66.0,
+    "operating_margin_range": "56.5% ~ 58.5%",
+    "operating_margin_mid": 57.5
+  }
+}
